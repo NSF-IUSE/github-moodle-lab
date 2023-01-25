@@ -1,2 +1,2 @@
-$hello = "Hello EE368 class"
+$hello = "Hello EE368"
 echoo #hello;
